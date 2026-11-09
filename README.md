@@ -8,4 +8,4 @@ brew install vukkt/tap/iglass
 
 | Formula | Description |
 |---|---|
-| [iglass](https://github.com/vukkt/iglass) | A Liquid Glass theme for iTerm2 and Ghostty |
+| [iglass](https://github.com/vukkt/iglass) | A Liquid Glass theme for iTerm2, Ghostty, kitty and Warp, on macOS and Linux |
